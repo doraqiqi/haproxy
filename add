@@ -1,0 +1,8 @@
+{
+    'backend': '',
+    'record':{
+        'server': '',
+        'weight': 0,
+        'maxconn':0
+    }
+}
